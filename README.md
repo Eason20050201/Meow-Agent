@@ -42,7 +42,7 @@
 
 ### 運行步驟
 
-1. **下載或克隆此專案：**
+1. **下載此專案：**
 
    ```bash
    git clone git@github.com:yourusername/meow-agent.git
