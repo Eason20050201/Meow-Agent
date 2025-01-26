@@ -45,7 +45,7 @@
 1. **下載此專案：**
 
    ```bash
-   git clone git@github.com:yourusername/meow-agent.git
+   git clone git@github.com:yourusername/meow-agent.git](https://github.com/Eason20050201/Meow-Agent.git
    ```
 
 2. **開啟 Processing IDE，打開專案中的 Main.pde。**
