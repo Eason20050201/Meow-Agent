@@ -22,11 +22,11 @@ SOFTWARE.
 
 ---
 
-## 📜 版權聲明
+本專案「Meow Agent」為學術研究與學習目的所開發，所有原始碼遵循 MIT License。
+
+若有任何版權疑慮，請在本專案的 GitHub Issues 頁面提交問題，我們將立即處理。
+https://github.com/Eason20050201/Interactive-Fiction-Engine/issues
 
 - 程式碼 遵循 MIT License，允許自由使用與修改。
 - 遊戲圖片 來源於 Canva，版權歸原作者所有。
 - 音效 來自網路公開資源，版權歸原創作者所有。
-- 請注意：若要重新分發包含這些圖片或音效的版本，請確保遵守原始版權規範。
-
-For inquiries or issues, please visit our [GitHub Issues](https://github.com/Eason20050201/Meow-Agent/issues).
