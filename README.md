@@ -19,6 +19,12 @@ Meow Agent 是由兩人共同分工，利用 processing java 所撰寫出的遊�
 
 ---
 
+## **🎥 遊戲遊玩展示影片**
+點擊圖片可以前往 youtube 觀看
+[![遊戲遊玩影片](https://img.youtube.com/vi/gtMC3hjhFL8/0.jpg)](https://youtu.be/gtMC3hjhFL8)
+
+---
+
 ## **✨ 遊戲特色**
 - **🎲 隨機題目挑戰**：每場遊戲的學科問題都不同，保持新鮮感！
 - **⚡ 技能強化系統**：答對題目後可升級武器技能，提高戰鬥能力！
@@ -35,7 +41,7 @@ Meow Agent 是由兩人共同分工，利用 processing java 所撰寫出的遊�
 
 ---
 
-## **📸 遊戲畫面**
+## **📸 遊戲介紹**
 <p align="center">
   <img src="data/about1.png" alt="遊戲畫面1" width="300">
   <img src="data/about2.png" alt="遊戲畫面2" width="300">
@@ -44,12 +50,6 @@ Meow Agent 是由兩人共同分工，利用 processing java 所撰寫出的遊�
   <img src="data/about3.png" alt="遊戲畫面3" width="300">
   <img src="data/about4.png" alt="遊戲畫面4" width="300">
 </p>
-
----
-
-## **🎥 遊戲遊玩展示影片**
-點擊圖片可以前往 youtube 觀看
-[![遊戲遊玩影片](https://img.youtube.com/vi/gtMC3hjhFL8/0.jpg)](https://youtu.be/gtMC3hjhFL8)
 
 ---
 
